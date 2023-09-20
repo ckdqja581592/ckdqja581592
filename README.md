@@ -21,7 +21,7 @@
 ### Contact with me 📝
 
 [<img align="left" alt="ICB.site" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
-[<img align="left" alt="Six_twlv | Instagram" height="30px" src="https://icons8.com/icon/Xy10Jcu1L2Su/instagram" />][instagram]
+[<img align="left" alt="Six_twlv | Instagram" height="30px" src="https://www.svgrepo.com/svg/452229/instagram-1" />][instagram]
 [<img align="left" alt="ICB.Youtubemusic | Youtubemusic" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][youtubemusic]
 
 <br />
