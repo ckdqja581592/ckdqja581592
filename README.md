@@ -22,7 +22,7 @@
 
 [<img align="center" alt="ICB.site" height="60px" src="icon/github-seeklogo.com.svg" />][website]
 [<img align="center" alt="Six_twlv | Instagram" height="60px" src="icon/instagram.com.svg" />][instagram]
-[<img align="center" alt="ICB.Youtubemusic | Youtubemusic" height="60px" src="youtube-music-seeklogo.com.svg" />][youtubemusic]<br />
+[<img align="center" alt="ICB.Youtubemusic | Youtubemusic" height="60px" src="icon/youtube-music-seeklogo.com.svg" />][youtubemusic]<br />
 
 <br />
 <br />
