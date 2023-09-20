@@ -18,23 +18,23 @@
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
-### Contact with me 📝
+### Contact with me 📝<br />
 
-[<img align="left" alt="ICB.site" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
-[<img align="left" alt="Six_twlv | Instagram" height="30px" src="https://www.svgrepo.com/svg/452229/instagram-1" />][instagram]
-[<img align="left" alt="ICB.Youtubemusic | Youtubemusic" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][youtubemusic]
+[<img align="center" alt="ICB.site" height="60px" src="icon/github-seeklogo.com.svg" />][website]
+[<img align="center" alt="Six_twlv | Instagram" height="60px" src="icon/instagram.com.svg" />][instagram]
+[<img align="center" alt="ICB.Youtubemusic | Youtubemusic" height="60px" src="youtube-music-seeklogo.com.svg" />][youtubemusic]<br />
 
+<br />
 <br />
 
 ---
 
 ### Languages and Tools 🛠 
 
-![C#](http://img.shields.io/badge/-C%23-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
+![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
+![C#](http://img.shields.io/badge/-C%23-A8B9CC?style=flat-square&logo=c%23&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
