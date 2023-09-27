@@ -19,8 +19,6 @@
 [<img align="center" alt="ICB.site" height="60px" src="icon/github-white.jpg" />][website]
 [<img align="center" alt="Six_twlv | Instagram" height="60px" src="icon/instagram.com.svg" />][instagram]
 [<img align="center" alt="ICB.Youtubemusic | Youtubemusic" height="60px" src="icon/youtube-music-seeklogo.com.svg" />][youtubemusic]<br />
-
-<br />
 <br />
 
 ---
@@ -39,11 +37,7 @@
 <br/>
 
 ---
-
-<br/>
-
-  <h2 align="center"> Github Statistics 📈 </h2>
-  
+  <h2 align="center"> Github Statistics 📈</h2>
   <div align="center"> 
      <a href="">
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ckdqja581592&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
