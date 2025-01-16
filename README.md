@@ -52,5 +52,5 @@
 ---
 
 [website]: https://ckdqja581592.github.io/Port_final/
-[instagram]: https://www.instagram.com/6ix_twlv/
+[instagram]: https://www.instagram.com/12_blvd/
 [youtubemusic]: https://music.youtube.com/channel/UClyD8eHggfdhURy3WwHAlrQ
