@@ -4,7 +4,7 @@
 
 ## I'm a Game Client Developer Student  
 
-- 🚀 Be Engine Programmer | 🎮 Be Game Client Developer | 📚 Student
+- 🚀 Be Entertainer | 🎮 Like Game | 📚 Student
 
 ---
 
